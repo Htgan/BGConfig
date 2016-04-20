@@ -1,0 +1,61 @@
+[BMCFileMark]
+Model=MG983G-30M
+[Via WAP Settings]
+URL=http://mmsc.telstra.com:8002
+APN=telstra.mms
+IP=10.1.1.180
+Port=80
+Account=
+Password=
+[Via Internet Settings]
+GPRSAPN=telstra.internet
+GPRSAccount=guest
+GPRSPassword=guest
+SendEmailServer=smtp.gmail.com
+SendEmailPort=465
+SendEmailAddr=MG983G30Test@gmail.com
+SendEmailPassword=Welcome11111
+SMTP SSL=1
+[Receive number and receive email]
+AdministratorNum=
+PhoneNum2=
+PhoneNum3=
+PhoneNum4=
+ReceiveEmail1=
+ReceiveEmail2=
+ReceiveEmail3=
+ReceiveEmail4=
+[Camera Setting]
+Language=0
+Camera Mode=0
+Security Mode=0
+Camera Position=0
+Time Lapse=0
+PIR Trigger=1
+PIR Interval=2
+SMS Control=1
+Photo Size=0
+Photo Burst=0
+Video Size=0
+Video Length=0
+Game Call=0
+GameCall Hour=0
+GameCall Minute=0
+GameCall PlayTime=-1
+Clock Year=2016
+Clock Month=4
+Clock Day=19
+Clock Hour=15
+Clock Minute=26
+Clock Second=2
+Work Hour=0
+Work Hour StartH=0
+Work Hour StartM=0
+Work Hour StopH=0
+Work Hour StopM=0
+Work Day=127
+Send To=0
+Send Mode=2
+Max Number=30
+DR Time H=0
+DR Time M=0
