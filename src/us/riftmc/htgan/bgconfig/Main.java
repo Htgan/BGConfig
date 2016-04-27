@@ -9,6 +9,7 @@ import java.util.Calendar;
 
 import javax.swing.JOptionPane;
 
+
 public class Main {
 	private static String phoneNumber;
 	private static String emailAddress;
@@ -93,6 +94,7 @@ public class Main {
 			out.println("DR Time M=0");
 		} catch (IOException e) {
 			// exception handling left as an exercise for the reader
+			e.printStackTrace();
 		}
 
 		
